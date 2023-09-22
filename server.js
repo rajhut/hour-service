@@ -8,5 +8,5 @@ app.get("/hour", (req, res) => {
 });
 
 app.listen(6001, () => {
-    console.log("Servicio iniciado en http://localhost:6001");
+    console.log("Servicio iniciado => http://localhost:6001");
 });
